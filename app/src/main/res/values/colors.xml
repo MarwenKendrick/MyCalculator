@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bistre">#251605</color>
+    <color name="brownSugar">#C57B57</color>
+    <color name="atomicTangerine">#F1AB86</color>
+    <color name="peachYellow">#F1AB86</color>
+    <color name="cadetGray">#9CAFB7</color>
+    <color name="oxfordBlue">#0E1428</color>
+    <color name="cambridgeBlue">#7B9E89</color>
+    <color name="gamboge">#F0A202</color>
+</resources>
